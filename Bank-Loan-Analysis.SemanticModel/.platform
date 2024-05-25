@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Bank-Loan-Analysis"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "375783e2-1177-4500-9fb1-30200a9383d0"
+  }
+}

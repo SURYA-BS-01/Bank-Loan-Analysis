@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Bank-Loan-Analysis"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "9eeed8cd-801a-40e3-be6e-c94205d8dcc1"
+  }
+}
